@@ -1,10 +1,18 @@
-### Hi, I'm Kris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Ryad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I make videos on YouTube about software development. <br />
-I work remotely and like to travel a lot. 
+an Android Engineer and applications developer 📱, I have a master's degree in software development 🎓, wrote milion lines of code 📝 and still loving what i do 🤍.
 
-<a href="https://www.youtube.com/c/acodingnomad">
-  <img align="left" alt="A Coding Nomad YouTube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.linkedin.com/in/ryadamir/">
+  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
+<a href="https://twitter.com/ryadmir">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://discordapp.com/users/rimir#1299">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> 
+<a href="mailto:ryadamirads@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://freesvg.org/img/Email.Simple-4.png" />
 </a> 
 <br />
 
