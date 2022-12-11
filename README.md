@@ -7,12 +7,12 @@ an Android Engineer and applications developer 📱, I have a master's degree in
 <a href="https://www.linkedin.com/in/ryadamir/">
   <img align="left" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-<a href="https://twitter.com/ryadmir">
-  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://discordapp.com/users/rimir#1299">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> 
+<a href="https://twitter.com/ryadmir">
+  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <a href="mailto:ryadamirads@gmail.com">
   <img align="left" alt="Email" width="30px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
 </a> 
