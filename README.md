@@ -2,6 +2,8 @@
 
 an Android Engineer and applications developer 📱, I have a master's degree in software development 🎓, wrote milion lines of code 📝 and still loving what i do 🤍.
 
+#### Links:
+
 <a href="https://www.linkedin.com/in/ryadamir/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
@@ -12,22 +14,25 @@ an Android Engineer and applications developer 📱, I have a master's degree in
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> 
 <a href="mailto:ryadamirads@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://freesvg.org/img/Email.Simple-4.png" />
+  <img align="left" alt="Email" width="22px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
 </a> 
 <br />
 
-#### Languages and tools I work with:
+#### Programming languages and tools I work with:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/android-vertical.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-analytics.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-admob.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-adsense.svg"></code>
 
 <br />
-
-- 📍 &nbsp;	Current location: Miami, FL
-- ⌨️ &nbsp;	Coming next: React crash course 2021 (for beginners)
-- 💬 &nbsp;	Ask me about anything, I am happy to help
-- 💌 &nbsp;	How to reach me: [@acodingnomad](https://www.instagram.com/acodingnomad/)
