@@ -4,9 +4,12 @@ an Android Engineer and applications developer 📱, I have a master's degree in
 
 #### Links:
 
+<a href="https://ryad.cf/portfolio/">
+  <img align="left" alt="Portfolio" width="30px" src="https://www.svgrepo.com/show/280646/earth-globe-internet-connection.svg" />
+</a> 
 <a href="https://www.linkedin.com/in/ryadamir/">
   <img align="left" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
+</a>
 <a href="https://discordapp.com/users/rimir#1299">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> 
@@ -37,3 +40,10 @@ an Android Engineer and applications developer 📱, I have a master's degree in
 <code><img height="40" src="https://cdn.svgporn.com/logos/google-adsense.svg"></code>
 
 <br />
+
+## Featured Projects
+
+<a href='https://play.google.com/store/apps/details?id=com.uiresource.cuisto' align="right"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="270" align="right"/></a>
+<samp><p align=”justify” style="text-indent:40px;"> 
+ <b>Cuisto - Cookbook & Recipes</b> , with 20K+ downloads on Google Play with a 4.7 rating after 100+ reviews.
+ <br/>
