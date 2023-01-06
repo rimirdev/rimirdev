@@ -1,6 +1,6 @@
 ### Hi, I'm Ryad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-an Android Engineer and applications developer 📱, I have a master's degree in software development 🎓, wrote milion lines of code 📝 and still loving what i do 🤍.
+an Android Engineer and applications Developer 📱, I have a master's degree in software development 🎓, wrote milion lines of code 📝 in more than 5 years and still loving what i do 🤍.
 
 #### Links:
 
