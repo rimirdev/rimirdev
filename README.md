@@ -1,7 +1,5 @@
 ### Hi, I'm Ryad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-an Android Engineer and applications Developer 📱, I have a master's degree in software development 🎓, wrote milion lines of code 📝 in more than 5 years and still loving what i do 🤍.
-
+a passionate software developer📱 with a particular focus on mobile applications and the existing world of Android 🤖, I have a master's degree in software engineering and AI 🎓, wrote millions lines of code 📝 and still loving what I do.
 #### Links:
 
 <a href="https://ryad.cf/portfolio/">
