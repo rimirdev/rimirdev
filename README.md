@@ -2,7 +2,7 @@
 a passionate software developer📱 with a particular focus on mobile applications and the existing world of Android 🤖, I have a master's degree in software engineering and AI 🎓, wrote millions lines of code 📝 and still loving what I do.
 #### Links:
 
-<a href="https://ryad.cf/portfolio/">
+<a href="https://ryadamir.github.io/">
   <img align="left" alt="Portfolio" width="30px" src="https://www.svgrepo.com/show/280646/earth-globe-internet-connection.svg" />
 </a> 
 <a href="https://www.linkedin.com/in/ryadamir/">
