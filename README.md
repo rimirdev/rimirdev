@@ -5,7 +5,7 @@ a passionate software developer📱 with a particular focus on mobile applicatio
 <a href="https://ryadamir.github.io/">
   <img align="left" alt="Portfolio" width="30px" src="https://www.svgrepo.com/show/280646/earth-globe-internet-connection.svg" />
 </a> 
-<a href="https://www.linkedin.com/in/ryadamir/">
+<a href="https://www.linkedin.com/in/ryadev/">
   <img align="left" alt="Linkedin" width="30px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 <a href="https://discordapp.com/users/rimir#1299">
