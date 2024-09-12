@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/rimirdev/rimirdev.github.io/blob/6f1b623ed5d8f09cdfff41b5a21f45275d590e0a/images/djbwgfw-ezgif.com-effects.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Proud of this work [Cuisto](https://play.google.com/store/apps/details?id=com.uiresource.cuisto)
+- 🔭 Proud of this [Cuisto](https://play.google.com/store/apps/details?id=com.uiresource.cuisto)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
